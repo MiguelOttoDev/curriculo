@@ -3,7 +3,7 @@ import Conhecimentos from './components/Conhecimento';
 import Cursos from './components/Cursos';
 import Formacao from './components/Formacao';
 import SideBar from './components/Sidebar';
-import Contacts from './components/contacts';
+import Contacts from './components/Contacts';
 
 function App() {
   return (
