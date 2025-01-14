@@ -28,7 +28,7 @@ export default function Formacao(){
           <div className="flex items-center mb-12 relative z-10 flex-row-reverse">
             <div className="w-8 h-8 bg-yellow-600 rounded-full flex items-center justify-center ml-6 text-white shadow-lg"></div>
             <div className="ml-6 w-full text-right">
-              <div className="text-sm font-semibold text-gray-600">FIAP - Faculdade de Informática <br/> e Administração Paulista</div>
+              <div className="text-sm font-semibold text-gray-600">FIAP</div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
                 <h3 className="text-lg font-semibold text-blue-950">Bacharelado</h3>
                 <p className="text-gray-600 text-sm text-justify">Atualmente, curso Engenharia de Software na FIAP, com foco
